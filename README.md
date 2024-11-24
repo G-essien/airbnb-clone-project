@@ -61,3 +61,82 @@ To ensure a cohesive and visually appealing design, the following design propert
 
 ### Importance of Identifying Design Properties in a Mock-Up Design  
 Identifying design properties in a mock-up design ensures consistency and alignment with the project’s goals and user needs. Clear definitions of colors, typography, and layout styles establish a unified aesthetic that enhances the user experience and strengthens brand identity. These properties guide the development process, reducing ambiguity and ensuring that the final product matches the intended design vision. Additionally, a well-defined design system simplifies collaboration among team members, making the implementation of design elements more efficient and cohesive.  
+
+
+## Project Roles and Responsibilities 👥  
+
+The Airbnb Clone project requires a coordinated effort from a multidisciplinary team. Each role plays a critical part in ensuring the successful delivery of a feature-rich and user-friendly booking system. Below is an overview of the roles and their specific responsibilities within the context of this project:  
+
+### **Project Manager**  
+- **Responsibilities**:  
+  - Define the project scope, timeline, and deliverables specific to the Airbnb Clone.  
+  - Coordinate communication between team members working on features like property listings, search functionality, and booking systems.  
+  - Track progress to ensure timely completion of milestones such as the Property Listing View, Detailed Property View, and Checkout.  
+- **Contribution**: Keeps the project organized and ensures all features are delivered on time and aligned with the project goals.  
+
+---
+
+### **Frontend Developers**  
+- **Responsibilities**:  
+  - Implement the user interface for key pages, including the Property Listing View, Listing Detailed View, and Checkout.  
+  - Ensure the UI is responsive and visually appealing across devices.  
+  - Integrate frontend components with APIs for property data, user authentication, and bookings.  
+- **Contribution**: Build the visual and interactive aspects of the application that users interact with.  
+
+---
+
+### **Backend Developers**  
+- **Responsibilities**:  
+  - Develop APIs to manage property listings, user authentication, and bookings.  
+  - Design and optimize the database structure for storing property and user data.  
+  - Ensure smooth integration between the frontend and backend for features like search functionality and real-time availability updates.  
+- **Contribution**: Power the functionality behind property searches, bookings, and user account management.  
+
+---
+
+### **Designers**  
+- **Responsibilities**:  
+  - Create mock-ups for the Property Listing View, Listing Detailed View, and Checkout pages.  
+  - Define the color schemes, typography, and overall design aesthetic for the Airbnb Clone.  
+  - Collaborate with frontend developers to ensure consistent implementation of design elements.  
+- **Contribution**: Shape the user experience with a visually engaging and intuitive interface.  
+
+---
+
+### **QA/Testers**  
+- **Responsibilities**:  
+  - Test the application to ensure property listings display correctly, bookings process without issues, and search functionality operates as expected.  
+  - Identify and document bugs or inconsistencies across the user journey.  
+  - Perform usability testing to confirm the design and functionality meet user expectations.  
+- **Contribution**: Ensure the application is reliable, user-friendly, and free from critical bugs.  
+
+---
+
+### **DevOps Engineers**  
+- **Responsibilities**:  
+  - Set up CI/CD pipelines to deploy the Airbnb Clone efficiently.  
+  - Manage the hosting of the application, ensuring uptime and scalability for handling property searches and bookings.  
+  - Monitor system performance to prevent downtime or delays during user interactions.  
+- **Contribution**: Maintain smooth operation and deployment of the system for optimal user experience.  
+
+---
+
+### **Product Owner**  
+- **Responsibilities**:  
+  - Define and prioritize features such as property search filters, user authentication, and streamlined booking.  
+  - Act as a liaison between stakeholders and the development team, ensuring the Airbnb Clone meets user needs.  
+  - Provide feedback on deliverables like page layouts and booking workflows.  
+- **Contribution**: Align the project with user expectations and business goals to ensure its success.  
+
+---
+
+### **Scrum Master**  
+- **Responsibilities**:  
+  - Facilitate Agile ceremonies like sprint planning and retrospectives tailored to the Airbnb Clone project.  
+  - Remove blockers for the team, such as API delays or design inconsistencies.  
+  - Promote collaboration to ensure timely delivery of features like property listings and checkout.  
+- **Contribution**: Keep the team focused and productive by implementing effective Agile practices.  
+
+---
+
+Each role contributes to building a fully functional Airbnb Clone with a seamless booking experience, a robust search system, and an intuitive user interface. Collaboration and coordination among these roles ensure the project’s success.  
