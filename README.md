@@ -30,3 +30,34 @@ The design of the Airbnb Clone project focuses on creating a user-friendly and v
 
 ### Importance of a User-Friendly Design in a Booking System  
 A user-friendly design is crucial in a booking system as it directly impacts user engagement, satisfaction, and conversion rates. A simple and intuitive interface helps users find information quickly and reduces the likelihood of errors during booking. Responsive and accessible designs ensure that the system caters to a diverse audience, including users with different devices and needs. By prioritizing clarity and usability, the system fosters trust and reliability, encouraging repeat usage and positive recommendations.
+
+### Design Properties  
+To ensure a cohesive and visually appealing design, the following design properties were defined and applied:  
+
+#### Color Styles  
+- **Primary Color**: #FF385C (Airbnb-inspired pink-red)  
+- **Secondary Color**: #008489 (Teal for call-to-action elements)  
+- **Background Colors**:  
+  - Light: #F7F7F7 (Neutral gray for background)  
+  - Dark: #2C2C2C (Dark gray for footer and modal overlays)  
+- **Text Colors**:  
+  - Primary Text: #222222 (Dark gray for main content)  
+  - Secondary Text: #717171 (Muted gray for descriptions and secondary content)  
+- **Accent Color**: #FFD700 (Gold for highlights or icons)  
+
+#### Typography  
+- **Font Family**: 'Poppins', sans-serif  
+- **Font Weight**:  
+  - Light: 300 (For secondary text and descriptions)  
+  - Regular: 400 (For body content)  
+  - Semi-Bold: 600 (For headings and emphasized content)  
+- **Font Sizes**:  
+  - Small: 14px (For captions and fine print)  
+  - Medium: 16px (For body text and descriptions)  
+  - Large: 24px (For section titles and headings)  
+  - Extra Large: 32px (For main titles and hero text)  
+
+---
+
+### Importance of Identifying Design Properties in a Mock-Up Design  
+Identifying design properties in a mock-up design ensures consistency and alignment with the project’s goals and user needs. Clear definitions of colors, typography, and layout styles establish a unified aesthetic that enhances the user experience and strengthens brand identity. These properties guide the development process, reducing ambiguity and ensuring that the final product matches the intended design vision. Additionally, a well-defined design system simplifies collaboration among team members, making the implementation of design elements more efficient and cohesive.  
